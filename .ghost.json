@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://admin.haroonhelps.com",
-    "contentApiKey": "8aae84b1a2477f85089ee99495"
+    "contentApiKey": "cdee32ab3ba8cdf02735b10841"
   },
   "production": {
     "apiUrl": "https://admin.haroonhelps.com",
-    "contentApiKey": "8aae84b1a2477f85089ee99495"
+    "contentApiKey": "cdee32ab3ba8cdf02735b10841"
   }
 }
